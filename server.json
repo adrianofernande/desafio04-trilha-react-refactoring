@@ -1,14 +1,6 @@
 {
   "foods": [
     {
-      "id": 1,
-      "name": "Ao molho",
-      "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas",
-      "price": "19.90",
-      "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
-    },
-    {
       "id": 2,
       "name": "Veggie",
       "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
@@ -23,6 +15,38 @@
       "price": "25.90",
       "available": false,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/17/f5/39/f7/fooood-at-the-food-department.jpg",
+      "name": "japanese",
+      "price": "45.90",
+      "description": "sdfsd  retegj jij çdsuh n jhj vjhk nx",
+      "available": true,
+      "id": 6
+    },
+    {
+      "image": "https://img.freepik.com/vetores-gratis/composicao-de-publicidade-de-fast-food_1284-17372.jpg",
+      "name": "Salad",
+      "price": "30.00",
+      "description": "jioçruioçj ç  ioççjço jfioçwjw",
+      "id": 7,
+      "available": true
+    },
+    {
+      "image": "https://help.grandchef.com.br/wp-content/uploads/2021/03/comfort-food.jpg",
+      "name": "Lasanha",
+      "price": "39.90",
+      "description": "sdfskl dshfudusfuiojeioruwo ioguirou owifjwioefu oçqwi",
+      "available": true,
+      "id": 9
+    },
+    {
+      "image": "https://www.iliveitaly.it/wp-content/uploads/2019/01/Pizza-in-Italian-Food.png",
+      "name": "Pizza",
+      "price": "28.80",
+      "description": "ofiofjçosfjiodsf dsio dosifuidosjfçiodsufioçdsf jioçdsufioçdsj fiodsfjioçsdfjoçs",
+      "available": true,
+      "id": 10
     }
   ]
 }
